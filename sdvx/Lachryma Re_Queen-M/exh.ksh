@@ -7,7 +7,7 @@ difficulty=extended
 level=15
 t=236
 m=nofx.ogg;exh.ogg
-o=-380
+o=-400
 bg=fantasy
 layer=arrow
 po=20400
@@ -2195,8 +2195,8 @@ laserrange_r=2x
 0000|00|5j
 0000|00|--
 --
-laserrange_r=2x
 laserrange_l=2x
+laserrange_r=2x
 0000|00|0o
 0000|00|::
 0000|00|PP
@@ -3160,7 +3160,7 @@ zoom_bottom=-50
 0000|00|--
 --
 laserrange_r=2x
-0000|20|-O
+0000|20|-P
 0000|00|-:
 0000|00|-j
 0000|00|-:
